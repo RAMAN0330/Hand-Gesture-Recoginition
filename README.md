@@ -38,4 +38,8 @@ To get started with this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-   
+## Acknowledgements
+
+- Special thanks to TensorFlow and Keras for their excellent deep learning libraries.
+- Data sourced from the Kaggle dataset LeapGestRecog.
+- Inspiration from various online tutorials and courses on deep learning and image classification.
